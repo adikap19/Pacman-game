@@ -1,0 +1,13 @@
+﻿  Game.cpp
+C:\Users\adika\Desktop\pacpac\Pac-Woman\Game.cpp(11,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adika\Desktop\pacpac\Pac-Woman\Game.cpp(14,55): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  GameWoManager.cpp
+  Menu.cpp
+  PacWoman.cpp
+  Position.cpp
+  main.cpp
+C:\Users\adika\Desktop\pacpac\Pac-Woman\main.cpp(10,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\adika\Desktop\pacpac\Pac-Woman\main.cpp(9,7): warning C4101: 'userMenuSelect': unreferenced local variable
+C:\Users\adika\Desktop\pacpac\Pac-Woman\main.cpp(9,23): warning C4101: 'userMove': unreferenced local variable
+  Generating Code...
+  Pac-Woman.vcxproj -> C:\Users\adika\Desktop\pacpac\x64\Debug\Pac-Woman.exe
